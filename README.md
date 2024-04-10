@@ -1,4 +1,4 @@
-# Hi there, I'm Delia Eisenhower! 👋
+# Hi there, I'm Delia Eisenhower! 
 
 ## About Me
 I'm a passionate software developer with a strong interest in open-source projects and emerging technologies. I love exploring new ideas and turning them into reality through code.
